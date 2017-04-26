@@ -159,6 +159,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <connections>
+                        <outlet property="answerLabel" destination="YeZ-Re-rGc" id="bx1-qu-CBx"/>
+                        <outlet property="formulaLabel" destination="WXU-Fm-KX1" id="Z8e-EU-17M"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
