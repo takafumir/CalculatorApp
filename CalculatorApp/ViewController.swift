@@ -22,6 +22,13 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func inputFormula(_ sender: UIButton) {
+    }
 
+    @IBAction func calculateAnswer(_ sender: UIButton) {
+    }
+
+    @IBAction func clearCalculation(_ sender: UIButton) {
+    }
 }
 
